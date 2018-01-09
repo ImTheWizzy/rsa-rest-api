@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  enc_message: MyString
+  id_of_key: 1
+
+two:
+  enc_message: MyString
+  id_of_key: 1
